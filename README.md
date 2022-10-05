@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Lelang</h1>
   Lelang , ez2 developing trash | 乐语言，更好的编写垃圾<br>
-  **简体中文** | [Chinglish]() | [RUUssian]()
+  <b>简体中文</b> | Chinglish | RUUssian
 </div>
 
 
