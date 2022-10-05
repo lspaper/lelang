@@ -27,3 +27,10 @@ Tiby（太字节语言）是一种元宇宙语言，广泛用于`服务器`与`D
 
 Leak 是在`Grasscutter Backroom`环境里`泄露``Benj`中`仓库 Access`的`UA、jar、res`的最佳选择，由海洋游（OceanYo）创始人`王海洋`开发。
 
+## Warning List
+
+- Spruce Sapling 曾说，记事本是最好的 IDE，因为真正的程序员不要看提示。**若您不使用记事本编写 STML 将会得到报错。**
+
+## Road Map
+
+
